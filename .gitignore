@@ -1,0 +1,6 @@
+# Local response data
+*.csv
+*.CSV
+
+# macOS
+.DS_Store
